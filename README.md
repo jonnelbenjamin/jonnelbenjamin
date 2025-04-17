@@ -16,7 +16,7 @@ I'm passionate about designing scalable, efficient systems — and fascinated by
 ---
 
 ### 🛠️ Tools & Technologies
-![Azure/AWS](https://img.shields.io/badge/Azure/AWS-0078D4?style=flat&logo=amazonaws&logoColor=white)
+![Azure/AWS](https://img.shields.io/badge/Azure/AWS-0078D4?style=flat&logo=cloudflare&logoColor=white)
 ![Cloud Native](https://img.shields.io/badge/Cloud_Native-3776AB?style=flat&logo=cloudsmith&logoColor=white)
 ![CI/CD Pipelines](https://img.shields.io/badge/CI/CD_Pipelines-181717?style=flat&logo=gitlab&logoColor=white)
 <br/>
