@@ -27,6 +27,8 @@ I'm passionate about designing scalable, efficient systems — and fascinated by
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF4F00?style=flat&logo=HuggingFace&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=flat&logo=databricks&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
 
 ---
 
