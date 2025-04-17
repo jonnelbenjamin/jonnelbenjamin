@@ -16,9 +16,9 @@ I'm passionate about designing scalable, efficient systems — and fascinated by
 ---
 
 ### 🛠️ Tools & Technologies
-![Databases](https://img.shields.io/badge/Databases-336791?style=flat&logo=database&logoColor=white)
 ![Cloud Native](https://img.shields.io/badge/Cloud_Native-3776AB?style=flat&logo=cloudsmith&logoColor=white)
 ![CI/CD Pipelines](https://img.shields.io/badge/CI/CD_Pipelines-181717?style=flat&logo=gitlab&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-336791?style=flat&logo=mysql&logoColor=white)
 <br/>
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=flat&logo=databricks&logoColor=white)
