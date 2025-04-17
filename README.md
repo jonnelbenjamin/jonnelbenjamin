@@ -18,16 +18,16 @@ I'm passionate about designing scalable, efficient systems — and fascinated by
 ### 🛠️ Tools & Technologies
 ![Azure/AWS](https://img.shields.io/badge/Azure/AWS-0078D4?style=flat&logo=amazonaws&logoColor=white)
 ![Cloud Native](https://img.shields.io/badge/Cloud_Native-3776AB?style=flat&logo=cloudsmith&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white)
+![CI/CD Pipelines](https://img.shields.io/badge/CI/CD_Pipelines-181717?style=flat&logo=gitlab&logoColor=white)
 <br/>
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![CI/CD Pipelines](https://img.shields.io/badge/CI/CD_Pipelines-181717?style=flat&logo=gitlab&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=flat&logo=databricks&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white)
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF4F00?style=flat&logo=HuggingFace&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF6A00?style=flat&logo=databricks&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 
